@@ -145,5 +145,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📄 Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.# Api_HotelGemine
-# Api_HotelGemine
-# Api_HotelGemine
+
