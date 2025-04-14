@@ -1,0 +1,251 @@
+{
+    "hotel_faq": [
+        {
+            "question": "Qual é o horário permitido para saída?",
+            "answer": "O check-out é às 11h."
+        },
+        {
+            "question": "Tem academia no hotel?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Café da manhã está incluso na diária?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        },
+        {
+            "question": "Qual o horário de entrada no hotel?",
+            "answer": "O check-in é às 15h."
+        },
+        {
+            "question": "Vocês oferecem espaço fitness?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Estacionamento está incluso?",
+            "answer": "Sim, oferecemos estacionamento gratuito para os hóspedes."
+        },
+        {
+            "question": "Até que horas posso fazer o check-out?",
+            "answer": "O check-out é às 11h."
+        },
+        {
+            "question": "Quando posso fazer o check-in?",
+            "answer": "O check-in é às 15h."
+        },
+        {
+            "question": "O café é cortesia?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        },
+        {
+            "question": "Existe academia para hóspedes?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Vocês têm estacionamento?",
+            "answer": "Sim, oferecemos estacionamento gratuito para os hóspedes."
+        },
+        {
+            "question": "Quando devo deixar o quarto?",
+            "answer": "O check-out é às 11h."
+        },
+        {
+            "question": "Horário máximo para check-out?",
+            "answer": "O check-out é às 11h."
+        },
+        {
+            "question": "O hotel oferece estacionamento?",
+            "answer": "Sim, oferecemos estacionamento gratuito para os hóspedes."
+        },
+        {
+            "question": "Tem café da manhã incluso?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        },
+        {
+            "question": "A partir de que horas posso fazer check-in?",
+            "answer": "O check-in é às 15h."
+        },
+        {
+            "question": "Há uma sala de ginástica disponível?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Posso usar a academia?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Vocês têm academia?",
+            "answer": "Sim, temos uma academia disponível para os hóspedes."
+        },
+        {
+            "question": "Check-in pode ser feito a que horas?",
+            "answer": "O check-in é às 15h."
+        },
+        {
+            "question": "O café da manhã está incluso?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        },
+        {
+            "question": "Qual o horário de saída do hotel?",
+            "answer": "O check-out é às 11h."
+        },
+        {
+            "question": "É possível estacionar no local?",
+            "answer": "Sim, oferecemos estacionamento gratuito para os hóspedes."
+        },
+        {
+            "question": "Tem estacionamento gratuito?",
+            "answer": "Sim, oferecemos estacionamento gratuito para os hóspedes."
+        },
+        {
+            "question": "Vocês oferecem café da manhã gratuito?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        },
+        {
+            "question": "Vocês oferecem café ?",
+            "answer": "Sim, o café da manhã está incluído na sua estadia."
+        }, 
+        {
+            "question": "Que horas e o café da manhã?",
+            "answer": "O café da manhã é servido das 7h às 10h."
+        },
+        {
+            "question": "Vocês têm Recriação para as crianças?",
+            "answer": "Sim, oferecemos Recriação para as crianças?"
+        },    {
+            "question": "Quais são os horários de check-in e check-out?",
+            "answer": "O check-in começa às 15h e o check-out deve ser realizado até as 11h."
+          },
+          {
+            "question": "O café da manhã está incluso na diária?",
+            "answer": "Sim, o café da manhã está incluído na diária e é servido das 7h às 10h."
+          },
+          {
+            "question": "O hotel oferece estacionamento?",
+            "answer": "Sim, dispomos de estacionamento gratuito para todos os hóspedes."
+          },
+          {
+            "question": "Há Wi-Fi disponível e é gratuito?",
+            "answer": "Sim, o hotel oferece acesso gratuito à internet em todas as áreas."
+          },
+          {
+            "question": "O hotel possui academia?",
+            "answer": "Sim, temos uma academia equipada disponível para os hóspedes."
+          },
+          {
+            "question": "O hotel oferece serviço de quarto?",
+            "answer": "Sim, o serviço de quarto está disponível das 7h às 23h."
+          },
+          {
+            "question": "Qual é a política de cancelamento?",
+            "answer": "Nossa política de cancelamento varia conforme o tipo de reserva. Consulte os termos específicos no momento da sua reserva."
+          },
+          {
+            "question": "O hotel aceita animais de estimação?",
+            "answer": "Sim, animais de estimação são permitidos, seguindo diretrizes específicas e, em alguns casos, com cobrança adicional."
+          },
+          {
+            "question": "Existem instalações para eventos e reuniões?",
+            "answer": "Sim, contamos com salas equipadas para eventos, reuniões e conferências."
+          },
+          {
+            "question": "Há serviço de lavanderia ou limpeza a seco?",
+            "answer": "Sim, o hotel oferece serviços de lavanderia e limpeza a seco para a sua conveniência."
+          },
+          {
+            "question": "O hotel dispõe de área de lazer e recreação para crianças?",
+            "answer": "Sim, há uma área de recreação e diversas atividades para crianças disponíveis."
+          },
+          {
+            "question": "Quais medidas de segurança e saúde estão implementadas no hotel?",
+            "answer": "Seguindo as normas vigentes, realizamos higienizações frequentes, disponibilizamos álcool gel nas áreas comuns e adotamos protocolos rigorosos de segurança e saúde."
+          },
+          {
+            "question": "Existem facilidades para pessoas com mobilidade reduzida?",
+            "answer": "Sim, nosso hotel é totalmente acessível, com instalações adaptadas para pessoas com mobilidade reduzida."
+          },
+          {
+            "question": "Como posso efetuar minha reserva?",
+            "answer": "Você pode fazer sua reserva diretamente pelo nosso site, aplicativo ou entrando em contato pelo telefone."
+          },
+          {
+            "question": "O hotel oferece transporte para o aeroporto?",
+            "answer": "Sim, oferecemos serviço de transfer para o aeroporto mediante agendamento prévio e taxa adicional."
+          },
+          {
+            "question": "Posso solicitar check-in antecipado ou check-out tardio?",
+            "answer": "Sim, mediante disponibilidade e possível cobrança adicional. Recomendamos informar-se com antecedência."
+          },
+          {
+            "question": "O hotel possui piscina?",
+            "answer": "Sim, contamos com uma piscina ao ar livre disponível para os hóspedes."
+          },
+          {
+            "question": "Há restaurante no hotel?",
+            "answer": "Sim, nosso restaurante oferece opções variadas de refeições durante o dia."
+          },
+          {
+            "question": "O hotel oferece opções de dieta especial?",
+            "answer": "Sim, mediante solicitação prévia, podemos atender a dietas especiais como vegetarianas, veganas e sem glúten."
+          },
+          {
+            "question": "O hotel possui serviço de concierge?",
+            "answer": "Sim, nosso concierge está disponível para auxiliar com informações turísticas, reservas e outras necessidades."
+          },
+          {
+            "question": "É permitido fumar nos quartos?",
+            "answer": "Não, todos os nossos quartos são para não fumantes. Áreas designadas para fumantes estão disponíveis."
+          },
+          {
+            "question": "O hotel oferece serviço de despertador?",
+            "answer": "Sim, você pode solicitar o serviço de despertador na recepção."
+          },
+          {
+            "question": "Há cofre nos quartos?",
+            "answer": "Sim, todos os quartos estão equipados com cofres para segurança de seus pertences."
+          },
+          {
+            "question": "O hotel oferece serviço de câmbio?",
+            "answer": "Atualmente, não oferecemos serviço de câmbio. Recomendamos casas de câmbio próximas."
+          },
+          {
+            "question": "O hotel possui estacionamento para bicicletas?",
+            "answer": "Sim, oferecemos espaço seguro para armazenamento de bicicletas."
+          },
+          {
+            "question": "O hotel oferece pacotes para ocasiões especiais?",
+            "answer": "Sim, temos pacotes especiais para ocasiões como lua de mel, aniversários e outras celebrações."
+          },
+          {
+            "question": "O hotel possui serviço de aluguel de carros?",
+            "answer": "Sim, oferecemos serviço de aluguel de carros em parceria com empresas locais."
+          },
+          {
+            "question": "O hotel oferece atividades recreativas?",
+            "answer": "Sim, organizamos atividades recreativas para adultos e crianças durante a semana."
+          },
+          {
+            "question": "O hotel possui sala de jogos?",
+            "answer": "Sim, temos uma sala de jogos equipada com diversas opções de entretenimento."
+          },
+          {
+            "question": "O hotel oferece serviço de babá?",
+            "answer": "Sim, mediante agendamento prévio e taxa adicional, oferecemos serviço de babá."
+          },
+          {
+            "question": "O hotel possui quartos adaptados para pessoas com deficiência?",
+            "answer": "Sim, dispomos de quartos adaptados para garantir o conforto e segurança de todos os hóspedes."
+          },
+          {
+            "question": "O hotel oferece serviço de impressão e cópia?",
+            "answer": "Sim, nossos hóspedes podem utilizar os serviços de impressão e cópia disponíveis na recepção."
+          },
+          {
+            "question": "O hotel possui loja de conveniência?",
+            "answer": "Sim, temos uma loja de conveniência com itens essenciais e lanches."
+          },
+          {
+            "question": "O hotel oferece serviço de entrega de refeições no quarto?",
+            "answer": "Sim, nosso serviço de quarto está disponível para entrega de refeições durante o horário de funcionamento do restaurante."
+          }
+    ]
+}
