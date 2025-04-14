@@ -49,6 +49,11 @@ poetry run start_chat
 
 ### 4. **`start_Api`**
 Inicia o módulo de API para acessar o chatbot via endpoints HTTP. Ideal para integrar o chatbot com aplicações externas.
+
+```bash
+cd api     
+```
+
 ```bash
 poetry run start_Api
 ```
