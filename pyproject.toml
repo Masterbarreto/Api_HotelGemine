@@ -23,7 +23,7 @@ build-backend = "poetry.core.masonry.api"
 get_db = "api.services.db_service:conectar_banco"
 poplution = "api.data.popular_db:popular_db"
 start_chat = "api.services.gemini_ai:main"
-start_Api = "run_api:main"
+start_Api = "api.run_api:main"
 
 [tool.poetry]
 packages = [{ include = "api" }]

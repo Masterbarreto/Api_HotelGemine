@@ -2,9 +2,19 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from api.services.gemini_ai import respo_gemini
 from api.services.db_service import get_database
+from fastapi.middleware.cors import CORSMiddleware
 import uuid
 
 app = FastAPI()  # Criar instância do FastAPI
+
+# Configurar CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Permitir todas as origens (ou especifique as necessárias)
+    allow_credentials=True,
+    allow_methods=["*"],  # Permitir todos os métodos HTTP
+    allow_headers=["*"],  # Permitir todos os cabeçalhos
+)
 
 # Armazenar sessões de conversa
 sessions = {}
